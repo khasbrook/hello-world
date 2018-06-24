@@ -1,2 +1,4 @@
 # hello-world
-Test Repository
+Hey world
+
+This is my first introduction to Github. woo hoo.
